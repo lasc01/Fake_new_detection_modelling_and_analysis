@@ -69,8 +69,8 @@ python src/modeling/rf_model.py
 
 ## 👥 Contributors
 
-- Liton
 - Olamide
+- Liton
 - Osama
 
 ## 📚 References
